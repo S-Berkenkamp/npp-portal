@@ -16,7 +16,7 @@ export default function Home() {
           <li className="mb-2 tracking-[-.01em]">
             Get puups {" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/lololok/page.tsx
+              src/lo/page.tsx
             </code>
             .
           </li>
